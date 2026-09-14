@@ -60,7 +60,7 @@ Gross-profit percentages:
 
 ## Dashboard Preview
 
-![Kimia Farma Dashboard](dashboard-kimia-farma-dashboard.png)
+![Kimia Farma Dashboard](dashboard-kimia-farma-dashboard.jpg)
 
 ## Repository Structure
 
